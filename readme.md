@@ -1,4 +1,3 @@
-a
 # Hi
 # Hello
 # Ga
