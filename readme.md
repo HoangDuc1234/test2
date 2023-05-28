@@ -1,5 +1,4 @@
-# Hi
+## Hi
 # Hallow
-# Ga
 # Hasagi
 # Heyo
